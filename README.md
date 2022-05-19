@@ -1,6 +1,6 @@
 # Golf Ball Launcher
 
-This was a project that I undertook as part of my curriculum at the University of California, Irvine. The proejct revolved around designing and developing a golf ball launcher capable of launching a golf ball into a bucket at a specific distance away. As part of a six-person team, we worked together to follow the engineering design process and ensure the design we had was the best possible scenario for our given situation.
+This was a project that I undertook as part of my curriculum at the University of California, Irvine. The proejct revolved around designing and developing a golf ball launcher capable of launching a golf ball into a bucket at a specific distance away. As part of a six-person team, we worked together to follow the engineering design process and ensure the design we had was the best possible scenario for our given situation. For this project, I was the programming lead, taking on the challenge of designing the dynamic model for the launcher as well as designing some of the major components for the project. 
 
 ## Objective
 The objective of the project was to design a golf ball launcher that could launch a golf ball directly into a bucket given a random platform height and bucket distance, as well as launching the golf ball with at least one bounce into the bucket. 
@@ -22,6 +22,12 @@ The objective of the project was to design a golf ball launcher that could launc
   Must conform to budget ($110 for parts, $65 for manufacturing)
 </li>
   
+## The Golf-Ball Launcher
+
+
+## Dynamic Model
+
+
 
 
 
