@@ -8,19 +8,19 @@ The objective of the project was to design a golf ball launcher that could launc
 ## Requirements
 <li>
   System must be able to determine optimal launch angle and change launch angle based on given input distance
-<\li>
+</li>
 <li>
   System must be able to launch the golf ball directly into the bucket
-<\li>
+</li>
 <li>
   System must be able to launch the golf ball into the bucket with at least one bounce
-<\li>
+</li>
 <li>
   System must be able to measure the exit velocity of the golf ball
-<\li>
+</li>
 <li>
   Must conform to budget ($110 for parts, $65 for manufacturing)
-<\li>
+</li>
   
 
 
