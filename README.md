@@ -12,8 +12,9 @@ The objective of the project was to design a golf ball launcher that could launc
 <li>
   System must be able to launch the golf ball directly into the bucket
 <\li>
-  System must be able to launch the golf ball into the bucket with at least one bounce
 <li>
+  System must be able to launch the golf ball into the bucket with at least one bounce
+<\li>
 <li>
   System must be able to measure the exit velocity of the golf ball
 <\li>
