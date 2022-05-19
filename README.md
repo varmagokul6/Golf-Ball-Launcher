@@ -26,6 +26,9 @@ The objective of the project was to design a golf ball launcher that could launc
 
 
 ## Dynamic Model
+<p align="center">
+  <img width="560" height="460" src="https://github.com/varmagokul6/Golf-Ball-Launcher/blob/main/images/dynamic_model.png">
+</p>
 
 
 
