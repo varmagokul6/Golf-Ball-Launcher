@@ -23,12 +23,18 @@ The objective of the project was to design a golf ball launcher that could launc
 </li>
   
 ## The Golf-Ball Launcher
+Down below is the final SOLIDWORKS model for the launcher. 
 <p align="center">
   <img width="560" height="460" src="https://github.com/varmagokul6/Golf-Ball-Launcher/blob/main/images/golflaunch_cad.png">
 </p>
 
 
+
+
 ## Dynamic Model
+The dynamic model is a method to describe the trajectory of the golf ball in the two required scenarios. The script takes in an input distance and platform height, and 
+runs calculations for the optimal output angle for the golf ball, as shown in the figure below. This script was also used to determine the spring constant for the
+launching mechanism.
 <p align="center">
   <img width="560" height="460" src="https://github.com/varmagokul6/Golf-Ball-Launcher/blob/main/images/dynamic_model.png">
 </p>
