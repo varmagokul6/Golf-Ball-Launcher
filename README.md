@@ -41,7 +41,11 @@ launching mechanism.
 
 ## Video Demonstrations
 
-[![Watch the video] (https://github.com/varmagokul6/Golf-Ball-Launcher/blob/main/images/IMG_9629_Trim.mp4)
+
+
+https://user-images.githubusercontent.com/44277090/174935235-e9701bfd-6994-4125-adef-8f9ce802d89e.mp4
+
+
 
 
 
