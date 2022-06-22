@@ -39,6 +39,9 @@ launching mechanism.
   <img width="560" height="460" src="https://github.com/varmagokul6/Golf-Ball-Launcher/blob/main/images/dynamic_model.png">
 </p>
 
+## Video Demonstrations
+
+[![Watch the video] (https://github.com/varmagokul6/Golf-Ball-Launcher/blob/main/images/IMG_9629_Trim.mp4)
 
 
 
