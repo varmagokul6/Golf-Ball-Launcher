@@ -28,8 +28,15 @@ Down below is the final SOLIDWORKS model for the launcher.
   <img width="560" height="460" src="https://github.com/varmagokul6/Golf-Ball-Launcher/blob/main/images/golflaunch_cad.png">
 </p>
 
+The figure below depicts the exploded view of the launcher along with an associated bill of materials.
+<p align="center">
+  <img width="560" height="460" src="https://github.com/varmagokul6/Golf-Ball-Launcher/blob/main/images/exploded%20view.png">
+</p>
 
-
+And finally, presenting the final product... (#sharkweek)
+<p align="center">
+  <img width="560" height="460" src="https://github.com/varmagokul6/Golf-Ball-Launcher/blob/main/images/IMG_9644.jpg">
+</p>
 
 ## Dynamic Model
 The dynamic model is a method to describe the trajectory of the golf ball in the two required scenarios. The script takes in an input distance and platform height, and 
